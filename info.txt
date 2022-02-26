@@ -1,0 +1,5 @@
+full name: w 555 h 62
+
+accent color: #9aa0aa;
+
+#9ba1ab;
